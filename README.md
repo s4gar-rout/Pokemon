@@ -7,6 +7,20 @@ This project was built to practice API integration and understand how real-world
 
 ---
 
+## 🖼️ Screenshots
+
+
+### Home Page
+![Home Page](https://github.com/s4gar-rout/Pokemon/blob/d055411188969dd486c66e40c3d9a9a6b00d1281/Screenshot%202026-01-07%20010416.png)
+
+### Pokémon Cards View
+![Pokémon Cards](https://github.com/s4gar-rout/Pokemon/blob/d055411188969dd486c66e40c3d9a9a6b00d1281/Screenshot%202026-01-07%20010431.png)
+
+### Pokémon Cards View
+![Pokémon Cards](https://github.com/s4gar-rout/Pokemon/blob/d055411188969dd486c66e40c3d9a9a6b00d1281/Screenshot%202026-01-07%20010444.png)
+
+---
+
 ## 🚀 Features
 
 - Fetch Pokémon data using **Axios**
